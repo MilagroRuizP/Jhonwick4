@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "movie-name": "John wick 4",
+  "gender": ["Action", "Crime", "Thriller"],
+  "imgsrc": "/static/images/movie.jpg",
+  "resume": "John wick uncovers path to defending The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friend into foes"
+}
